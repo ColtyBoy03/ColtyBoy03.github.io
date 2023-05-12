@@ -28,8 +28,13 @@ body {
     font-family:Lato, Arial, sans-serif;
     font-size:1rem;
     padding:1rem;
+<<<<<<< HEAD
     min-width:auto;
     max-width:auto;
+=======
+    min-width:39rem;
+    max-width:50rem;
+>>>>>>> parent of 0881c8a (Revert "Submit")
     margin:0 auto;
 }
 main {
@@ -58,7 +63,11 @@ h1 {
     text-transform: uppercase;
     font-size:6rem;
     margin: 0;
+<<<<<<< HEAD
     letter-spacing: 0.5rem;
+=======
+    letter-spacing: .5rem;
+>>>>>>> parent of 0881c8a (Revert "Submit")
     color:darkred;
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
@@ -67,9 +76,15 @@ h1 {
 
 h2 {
     text-transform: uppercase;
+<<<<<<< HEAD
     font-size:4rem;
     margin: 0;
     letter-spacing: 1rem;
+=======
+    font-size:48rem;
+    margin: 0;
+    letter-spacing: 4rem;
+>>>>>>> parent of 0881c8a (Revert "Submit")
     color:darkred;
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
@@ -79,6 +94,7 @@ h2 {
 
 h3 {
     text-transform: uppercase;
+<<<<<<< HEAD
     font-size:6rem;
     margin: 0;
     letter-spacing: 0.5rem;
@@ -94,26 +110,55 @@ h4 {
     font-size:2.5rem;
     margin: 0rem;
     letter-spacing: 0.5rem;
+=======
+    font-size:32rem;
+    margin: 0;
+    letter-spacing: .5rem;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+    font-weight: normal;
+}
+
+h4 {
+    padding: 8rem;
+    text-transform: uppercase;
+    font-size:24rem;
+    margin-bottom: 18rem;
+    letter-spacing: 4rem;
+>>>>>>> parent of 0881c8a (Revert "Submit")
     color:darkred;
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     font-weight: normal;
+<<<<<<< HEAD
     padding-bottom: 3rem;
+=======
+>>>>>>> parent of 0881c8a (Revert "Submit")
 }
 
 h5 {
     text-transform: uppercase;
+<<<<<<< HEAD
     font-size:2rem;
     margin: 0rem;
     letter-spacing: 0.5rem;
+=======
+    font-size:16rem;
+    margin-top: 4rem;
+    margin: 8rem;
+    letter-spacing: .5rem;
+>>>>>>> parent of 0881c8a (Revert "Submit")
     background-color:#333;
     color:#fff;
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     font-weight: normal;
+<<<<<<< HEAD
     padding: 2rem;
+=======
+>>>>>>> parent of 0881c8a (Revert "Submit")
 }
 
 /* Section & Paragraph */
@@ -139,11 +184,19 @@ section {
 /* Image & Figure */
 
 figure {
+<<<<<<< HEAD
     margin-bottom: 4rem;
   }
   
   figcaption {
     padding-top: 2rem;
+=======
+    margin-bottom: 32rem;
+  }
+  
+  figcaption {
+    padding-top: 8rem;
+>>>>>>> parent of 0881c8a (Revert "Submit")
     text-align: right;
   }
   
@@ -159,6 +212,11 @@ figure {
 /* Footer */
 
 footer {
+<<<<<<< HEAD
     padding: 1rem;
     border-top: 4rem solid #333;
+=======
+    padding: 16rem;
+    border-top: 32rem solid #333;
+>>>>>>> parent of 0881c8a (Revert "Submit")
   }
